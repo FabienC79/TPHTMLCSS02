@@ -1,0 +1,42 @@
+h1{
+    color: red;
+    font-size: 14em;
+    text-align: center;
+
+}
+
+h3{
+    color: blue;
+    font-size: 5em;
+
+}
+
+p {
+    font-size: 2.3em;
+}
+
+.article1 , .article2 {
+    background-color: grey;
+}
+
+.article3{
+    background-color: pink;
+}
+
+strong{
+    color: yellowgreen;
+    font-weight: lighter;
+}
+
+em{
+    color: orange;
+    font-style: normal;
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+
+.TitreArticle2{
+    color: green;
+    text-align: right;
+    text-decoration: underline;
+}
